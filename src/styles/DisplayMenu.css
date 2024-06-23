@@ -1,0 +1,15 @@
+.display-menu {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.display-menu label {
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.display-menu select {
+  padding: 5px;
+  font-size: 14px;
+}
